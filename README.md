@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Tiara</h1>
+<h3 align="left">Software Engineer</h3>
 
-<!--
-**tiaranrh/tiaranrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tiaranrh&theme=dark&hide_border=true&background=45%2C271932%2C223B62&currStreakNum=EBEBEB&ring=C294EB&fire=C294EB&currStreakLabel=C294EB)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+### :leaves: About me :
+- 📫 How to reach me : **tnurhikmah208@gmail.com**
+- ⚡ Fun fact         : **to be an early bird programmer makes me happy! :lion:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/tiaranrhkmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tiaranrhkmh" height="30" width="40" /></a>
+</p>
